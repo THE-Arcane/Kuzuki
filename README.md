@@ -60,7 +60,7 @@ Kuzuki can be found on Telegram [here](https://t.me/Kuzuki_Robot).
 # ᴄʀᴇᴅɪᴛꜱ
 
 - [Anie Team](https://github.com/AnieTeam/Anie-Robot) ``Inspiration``
-- [Akhil](https://github.com/AKH1LS) ``Dev``
+- [Akhil](https://github.com/akhilprs) ``Dev``
 - [Zeus](https://github.com/zeusop5) ``Main Creator``
 
 _______
