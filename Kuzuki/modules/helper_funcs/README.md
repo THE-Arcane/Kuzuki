@@ -1,2 +1,2 @@
-## Recoded by [Akhil](https://github.com/AKH1LS).
+## Recoded by [Akhil](https://github.com/akhilprs).
 ## Ported by [Zeus](https://github.com/zeusop5).
